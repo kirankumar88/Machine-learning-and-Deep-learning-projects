@@ -1,0 +1,33 @@
+🧠 Model Details
+
+Model type: Logistic Regression
+
+Dataset: PIMA Indian Diabetes Dataset
+
+Preprocessing steps:
+
+Outlier removal
+
+Missing value imputation
+
+Standard scaling
+
+AUC Score: ~0.76
+
+Features used:
+
+Pregnancies
+
+Glucose
+
+Blood Pressure
+
+Skin Thickness
+
+Insulin
+
+BMI
+
+Diabetes Pedigree Function
+
+Age
