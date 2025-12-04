@@ -104,27 +104,13 @@ RBF	0.77	0.843
 
 👉 RBF SVM is the best-performing classifier for this dataset.
 
-📦 Project Structure
 SVM-Drug-Response-Classification/
 │
 ├── Drug_Response_Classification.ipynb
 ├── svm_drug_response_classification_assignment_10.py
-│
 ├── dataset/
-│   └── Pharma_Industry.csv
-│
 ├── docs/
-│   ├── Support Vector machine.docx
-│   └── Drug Response Classification.docx
-│
 ├── images/
-│   ├── histogram_grid_v2.jpeg
-│   ├── boxplot.jpeg
-│   ├── correlation_heatmap.jpeg
-│   ├── pairplot.jpeg
-│   ├── scatter_plot.jpeg
-│   └── count_plot.jpeg
-│
 ├── README.md
 └── requirements.txt
 
