@@ -1,4 +1,4 @@
-                                                                                    Car Price Prediction 
+                                                                Car Price Prediction 
 
 This repository presents a structured, analytics-driven approach to modeling used Toyota Corolla car prices using classical regression techniques. The project follows a disciplined machine-learning workflow—starting from data audit and preprocessing through to model development, regularization, and performance benchmarking.
 
@@ -93,17 +93,32 @@ Multicollinearity: Effectively mitigated via feature reduction and regularizatio
 
 The final model meets the quality standards expected in analytical modeling environments.
 
-📁 7. Recommended Repository Structure
+📁 7. Recommended Repository Structure :
 car-price-prediction/
 │
-├── data/
-├── src/
-├── figures/
-├── notebooks/
-├── outputs/
-└── README.md
-
-
+├── Toyota_Corolla_dataset.csv
+├── Car_price_prediction.ipynb
+│
+├── preprocess.py
+├── train_ols.py
+├── train_ridge.py
+├── train_lasso.py
+├── predict.py
+├── utils.py
+│
+├── Aftercapping_boxplot.png
+├── Histogram.png
+├── Count_plot.png
+├── Correlation_heatmap_post processing.png
+├── kde_plot.png
+├── qq_plot.png
+├── residual_plot.png
+├── stem_plot.png
+├── influence_plot.png
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
 This structure supports maintainability, reproducibility, and auditability—core requirements for corporate analytics teams.
 
 ✅ 8. Key Business Insights :
