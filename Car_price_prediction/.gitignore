@@ -1,0 +1,91 @@
+# ============================
+# Python cache / build files
+# ============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.bak
+*.tmp
+*.log
+
+
+# ============================
+# Virtual environment folders
+# ============================
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+# ============================
+# Jupyter Notebook
+# ============================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+
+# ============================
+# Models / large artifacts
+# (Optional: if you later save .pkl)
+# ============================
+models/*.pkl
+models/*.h5
+models/*.joblib
+
+
+# ============================
+# Dataset files
+# (OPTIONAL — comment out if you want data in repo)
+# ============================
+# data/*.csv
+# data/*.xlsx
+
+
+# ============================
+# Figures / Outputs
+# (Keep if you DON'T want images in Git)
+# Uncomment if needed
+# ============================
+# figures/
+# outputs/
+
+
+# ============================
+# OS / IDE specific files
+# ============================
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# ============================
+# Build / dist folders
+# ============================
+build/
+dist/
+*.egg-info/
+
+
+# ============================
+# Jupyter kernel / cache
+# ============================
+*.json
+*.sqlite
+
+
+# ============================
+# Other noise
+# ============================
+*.zip
+*.rar
+*.7z
