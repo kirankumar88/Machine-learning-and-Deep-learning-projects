@@ -1,7 +1,7 @@
 sonar-object-classification-ann/
 ├── Assignment_18_ANN.ipynb
 ├── assignment_18_ann.py
-├── Binary_classification.jpeg
+├── Class_distribution.jpeg
 ├── sonar.csv
 ├── requirements.txt
 ├── README.md
