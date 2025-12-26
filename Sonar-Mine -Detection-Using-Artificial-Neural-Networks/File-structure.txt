@@ -1,0 +1,7 @@
+sonar-object-classification-ann/
+├── Assignment_18_ANN.ipynb
+├── assignment_18_ann.py
+├── sonar.csv
+├── README.md
+├── requirements.txt
+├── .gitignore
