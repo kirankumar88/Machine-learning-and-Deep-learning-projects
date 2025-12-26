@@ -1,0 +1,7 @@
+amazon-reviews-sentiment-analysis-nlp/
+├── README.md
+├── Assignment19_NLP.ipynb
+├── requirements.txt
+├── Amazon_reviews_word_cloud.jpeg
+└── .gitignore
+
