@@ -1,0 +1,18 @@
+usd-aud-time-series-forecasting/
+│
+├── Exchange_rate.csv
+├── usd_aud_time_series_forecasting.ipynb
+├── usd_aud_time_series_forecasting.py
+├── exchange_rate_plot.jpeg
+├── Residual_plot.jpeg
+├── train_test_plot.jpeg
+├── DES_predicted_plot.jpeg
+├── DES_future_forecast_plot.jpeg
+├── ACF_plot.jpeg
+├── PACF_plot.jpeg
+├── Plot_diagnostics.jpeg
+├── ARIMA_test_forecast_plot.jpeg
+├── ARIMA_forecast_plot.jpeg
+├── README.md
+├── requirements.txt
+└── .gitignore
