@@ -1,0 +1,48 @@
+# -------------------------
+# Python cache & artifacts
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# -------------------------
+# Jupyter Notebook
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# Virtual environments
+# -------------------------
+venv/
+env/
+.venv/
+
+# -------------------------
+# OS-specific files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# IDE / Editor files
+# -------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# -------------------------
+# Logs & temp files
+# -------------------------
+*.log
+*.tmp
+
+# -------------------------
+# Optional: large outputs
+# (uncomment if needed)
+# -------------------------
+# *.jpeg
+# *.png
+# *.csv
