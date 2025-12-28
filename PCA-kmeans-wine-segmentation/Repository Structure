@@ -1,0 +1,15 @@
+pca-kmeans-wine-segmentation/
+│
+├── wine.csv
+├── pca_kmeans_wine_analysis.ipynb
+├── histogram.jpeg
+├── boxplot.jpeg
+├── corr_heatmap.jpeg
+├── scree_plot.jpeg
+├── cumulative_variance.jpeg
+├── kmeans_original.jpeg
+├── kmeans_pca2d.jpeg
+├── kmeans_pca3d.jpeg
+├── README.md
+├── requirements.txt
+└── .gitignore
