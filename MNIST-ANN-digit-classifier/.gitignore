@@ -1,0 +1,43 @@
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ===============================
+# Jupyter Notebook
+# ===============================
+.ipynb_checkpoints/
+
+# ===============================
+# Virtual Environments
+# ===============================
+venv/
+env/
+.venv/
+conda/
+miniconda/
+
+# ===============================
+# OS / Editor
+# ===============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ===============================
+# Logs & Temp Files
+# ===============================
+*.log
+*.tmp
+
+# ===============================
+# Model Artifacts (optional)
+# Uncomment if you do NOT want these tracked
+# ===============================
+# outputs/
+# *.h5
+# *.keras
+
