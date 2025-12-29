@@ -1,0 +1,14 @@
+mnist-ann-digit-classifier/
+│
+├── MNIST_ANN_classification.ipynb
+├── MNIST_ANN_classification.py
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── accuracy_loss_epochs.jpeg
+├── confusion_matrix.jpeg
+├── sample_digits.jpeg
+│
+├── image2.jpg
