@@ -1,0 +1,7 @@
+milk-production-forecasting-lstm/
+├── monthly_milk_production.csv
+├── milk_forecasting_rnn.ipynb
+├── milk_forecasting_rnn.py
+├── requirements.txt
+├── .gitignore
+└── README.md
