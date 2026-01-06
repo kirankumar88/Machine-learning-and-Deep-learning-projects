@@ -1,0 +1,8 @@
+glass-classification-random-forest/
+│
+├── Glass_Random_Forest.ipynb      # EDA (histogram, boxplot, pairplot), preprocessing, models
+├── glass.xlsx                    # Dataset
+├── Random_Forest_Glass_Assignment.docx
+├── README.md
+├── requirements.txt
+└── .gitignore
