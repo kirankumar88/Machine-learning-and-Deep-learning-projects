@@ -1,0 +1,61 @@
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# ===============================
+# Virtual Environments
+# ===============================
+venv/
+env/
+.venv/
+ENV/
+
+# ===============================
+# Jupyter Notebook
+# ===============================
+.ipynb_checkpoints/
+
+# ===============================
+# Data files (keep raw data out of repo if large/sensitive)
+# ===============================
+*.csv
+*.xlsx
+*.xls
+
+# Uncomment below if you want to keep small datasets
+# !data/*.csv
+# !data/*.xlsx
+
+# ===============================
+# OS-specific
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# IDE / Editor
+# ===============================
+.vscode/
+.idea/
+*.swp
+
+# ===============================
+# Logs
+# ===============================
+*.log
+
+# ===============================
+# Model artifacts
+# ===============================
+*.pkl
+*.joblib
+*.h5
