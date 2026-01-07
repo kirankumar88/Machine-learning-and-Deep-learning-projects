@@ -1,0 +1,16 @@
+customer-segmentation-kmeans-dbscan/
+│
+├── customer-segmentation-kmeans-dbscan.ipynb
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── EastWestAirlines.xlsx
+│
+├── histogram_features.png
+├── boxplot_outliers.png
+├── scatter_flight_vs_bonus.png
+├── correlation_heatmap.png
+├── kmeans_elbow_curve.png
+├── kmeans_clusters.png
+└── dbscan_clusters.png
